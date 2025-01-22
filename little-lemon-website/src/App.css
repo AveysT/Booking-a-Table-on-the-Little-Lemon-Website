@@ -189,6 +189,7 @@ input, label{
   align-items: center;
   flex-wrap: wrap;
   gap: 2rem 1rem;
+  
 }
 
 .menu-items{
@@ -196,6 +197,8 @@ input, label{
   width: 350px;
   background: #a9c8be;
   border-radius: 8px;
+  border: #F4CE14 3px solid;
+  box-shadow: #F4CE14 0px 3px 10px;  
 }
 
 .menu-container img{
@@ -214,7 +217,7 @@ input, label{
   justify-content: space-between;
 }
 
-.orderbtn{
+.orderBtn{
   padding: 5px 12px;
   margin-bottom: 20px;
   font-size: 16px;
